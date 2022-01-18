@@ -15,6 +15,7 @@
   .destination-container {
     flex-direction: row;
     flex-wrap: wrap;
+    width:100%;
   }
 }
 
